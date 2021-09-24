@@ -17,13 +17,13 @@
             <file md5="89e0a72447a37d35506933d0ce57d39a" name="imageformats/qwbmp.dll"></file>
             <file md5="d64562f9683757ec3123f22f593d1914" name="imageformats/qwebp.dll"></file>
         </dir>
+        <file md5="c93be62dfedeeb1666bfc89cf321d1f0" name="IPS.exe"></file>
         <file md5="07eee2ab979a28b94ba908be3c93c3fd" name="libEGL.dll"></file>
         <file md5="bcf78fcee2763778e792d41d46f2a7e0" name="libGLESv2.dll"></file>
         <file md5="7dbc97bfee0c7ac89da8d0c770c977b6" name="opengl32sw.dll"></file>
         <dir name="platforms">
             <file md5="8c289134bfc31dd3452e224fc1892c92" name="platforms/qwindows.dll"></file>
         </dir>
-        <file md5="4fc116fe80e98853525cdff3f5bf00b5" name="PowerEnviro1.1.exe"></file>
         <file md5="6853f6c5d6cf5d4945fe7e795415a04e" name="Qt5Core.dll"></file>
         <file md5="a02f395521487f3963b38e9d2d86da2a" name="Qt5Gui.dll"></file>
         <file md5="7756b40b36d6a41ee8b26a3d8a6c7705" name="Qt5Svg.dll"></file>
@@ -55,7 +55,6 @@
             <file md5="9a7a0b316cf7117bf3aa928c762c33b6" name="translations/qt_uk.qm"></file>
             <file md5="e6b27d6f8ad2b2e090d159daa818b1ae" name="translations/qt_zh_TW.qm"></file>
         </dir>
-        <file md5="c6e5508c9df269c317abeab0c6c89ea0" name="versio.txt"></file>
         <file md5="5b066be72ac9d2ef2934e3b98f83fedd" name="versionconfig.ini"></file>
     </files>
 </version>
