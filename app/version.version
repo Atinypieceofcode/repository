@@ -1,46 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<version intversion="4" textversion="" forceupdate="0">
+<version intversion="1" textversion="" forceupdate="0">
     <total></total>
     <files>
         <file md5="b0ae3aa9dd1ebd60bdf51cb94834cd04" name="D3Dcompiler_47.dll"></file>
         <dir name="iconengines">
-            <file md5="7f1f9b750a475cdb5bdbe19b2697b77d" name="iconengines/qsvgicon.dll"></file>
+            <file md5="d21676c1779f66a88590d1858c1878c4" name="iconengines/qsvgicon.dll"></file>
         </dir>
         <dir name="imageformats">
-            <file md5="22e5697b868600e280ac3ac2f60d7f76" name="imageformats/qgif.dll"></file>
-            <file md5="a30e23e1fe41ebfd80c2022f00c613d9" name="imageformats/qicns.dll"></file>
-            <file md5="c96c07debdd76dc341d7e99325292168" name="imageformats/qico.dll"></file>
-            <file md5="57ec62650c5cad803b7b39384ad594af" name="imageformats/qjpeg.dll"></file>
-            <file md5="1c258d126f1f8a2e143e9aa2370fb49b" name="imageformats/qsvg.dll"></file>
-            <file md5="d82bda30173b6a4d73dcfce0e763223a" name="imageformats/qtga.dll"></file>
-            <file md5="4f1bc15882e978647cf2f39112cc2430" name="imageformats/qtiff.dll"></file>
-            <file md5="b05a396f0d03685ceb6bfe31aa06763b" name="imageformats/qwbmp.dll"></file>
-            <file md5="f43c6d7e6fa1698d10ea98fd7f04126a" name="imageformats/qwebp.dll"></file>
+            <file md5="907c63e82fc3b9217933014035d861ad" name="imageformats/qgif.dll"></file>
+            <file md5="35aee3861714c2f9732eadf0b8dbb93a" name="imageformats/qicns.dll"></file>
+            <file md5="e394b0aaca984f0486d3278eb79b9b3d" name="imageformats/qico.dll"></file>
+            <file md5="e27dbbba68a01dd57ae86e427ed25a25" name="imageformats/qjpeg.dll"></file>
+            <file md5="adcbc05ee7234ec2cda87af7dc3229af" name="imageformats/qsvg.dll"></file>
+            <file md5="b2d26d41e22fbeaff65c07e2cb8537fb" name="imageformats/qtga.dll"></file>
+            <file md5="4ae7199659fa7a41eb6703182a4bc62e" name="imageformats/qtiff.dll"></file>
+            <file md5="89e0a72447a37d35506933d0ce57d39a" name="imageformats/qwbmp.dll"></file>
+            <file md5="d64562f9683757ec3123f22f593d1914" name="imageformats/qwebp.dll"></file>
         </dir>
-        <file md5="c93be62dfedeeb1666bfc89cf321d1f0" name="IPS.exe"></file>
+        <file md5="b7121c386d6e33e756acc9f7eaf86a11" name="IPS.exe"></file>
         <file md5="07eee2ab979a28b94ba908be3c93c3fd" name="libEGL.dll"></file>
         <file md5="bcf78fcee2763778e792d41d46f2a7e0" name="libGLESv2.dll"></file>
         <file md5="7dbc97bfee0c7ac89da8d0c770c977b6" name="opengl32sw.dll"></file>
         <dir name="platforms">
-            <file md5="f769f9806100c801024a2521b6cbc3b1" name="platforms/qwindows.dll"></file>
+            <file md5="8c289134bfc31dd3452e224fc1892c92" name="platforms/qwindows.dll"></file>
         </dir>
-        <file md5="db2a049781a7b0cc197cecbeeddbdab2" name="Qt5Core.dll"></file>
-        <file md5="86edb02afe0a28613fd21227be1c1eac" name="Qt5Gui.dll"></file>
-        <file md5="0faa8f8f1c01849188139319e6f612d0" name="Qt5Network.dll"></file>
+        <file md5="6853f6c5d6cf5d4945fe7e795415a04e" name="Qt5Core.dll"></file>
+        <file md5="a02f395521487f3963b38e9d2d86da2a" name="Qt5Gui.dll"></file>
         <file md5="7756b40b36d6a41ee8b26a3d8a6c7705" name="Qt5Svg.dll"></file>
-        <file md5="f5fcb173b7240d15e9880c10bbd0b6cc" name="Qt5Widgets.dll"></file>
-        <file md5="99762dc93527027b6f16a75463232afa" name="QTAutoUpdate.exe"></file>
-        <file md5="45790a801601b7181a89707c1f5f2a6b" name="selfupdate.exe"></file>
+        <file md5="1b71c6ebe1446f8dadbded8b8f9354e1" name="Qt5Widgets.dll"></file>
         <dir name="styles">
-            <file md5="a73dbf746bc95446c6f90fc997707c9e" name="styles/qwindowsvistastyle.dll"></file>
+            <file md5="057bd9f8cd48aa59dc29d3511595f571" name="styles/qwindowsvistastyle.dll"></file>
         </dir>
         <dir name="translations">
             <file md5="e7ec8b6e07d62634777dbcb47bd611d3" name="translations/qt_ar.qm"></file>
             <file md5="6bcb7bf161bbe019cfaeee7d331e3e79" name="translations/qt_bg.qm"></file>
-            <file md5="21fb29e06a28ce53710b30ddd5a613ea" name="translations/qt_ca.qm"></file>
+            <file md5="d1d7ab4da8bc6a6097af2db42c9bd14e" name="translations/qt_ca.qm"></file>
             <file md5="987e045e06aeba29a8e05a074e6bdb91" name="translations/qt_cs.qm"></file>
             <file md5="d541cc7f5ea2248e72d2e86ce6cbfa45" name="translations/qt_da.qm"></file>
-            <file md5="f90429f43145f362e387cbd77ba37db9" name="translations/qt_de.qm"></file>
+            <file md5="73911d71db30de43f856d4ea9e911837" name="translations/qt_de.qm"></file>
             <file md5="4aef4415f2e976b2cc6f24b877804a57" name="translations/qt_en.qm"></file>
             <file md5="7479d957c5309aedd4f58e4556590f69" name="translations/qt_es.qm"></file>
             <file md5="ff556242e6061dac90683223351abd61" name="translations/qt_fi.qm"></file>
@@ -53,11 +50,11 @@
             <file md5="d3eb25e0fff5719e8840612727896b1d" name="translations/qt_ko.qm"></file>
             <file md5="788862615b8fb13b52e4a80a8c54b3bf" name="translations/qt_lv.qm"></file>
             <file md5="55a6bb647e176cd4ceb5096c76b87abf" name="translations/qt_pl.qm"></file>
-            <file md5="862864842eb65c4f3f47252f7c9eaef8" name="translations/qt_ru.qm"></file>
+            <file md5="80ade6a2b721f7b14b91db7ebd12da77" name="translations/qt_ru.qm"></file>
             <file md5="fed9c191096819dd208e0e3e2d051170" name="translations/qt_sk.qm"></file>
             <file md5="9a7a0b316cf7117bf3aa928c762c33b6" name="translations/qt_uk.qm"></file>
             <file md5="e6b27d6f8ad2b2e090d159daa818b1ae" name="translations/qt_zh_TW.qm"></file>
         </dir>
-        <file md5="41268ae8365d9fc408907383ecb0f28b" name="versionconfig.ini"></file>
+        <file md5="22df4f5ebbd0712e4b2d32a91b3ff9b0" name="versionconfig.ini"></file>
     </files>
 </version>
